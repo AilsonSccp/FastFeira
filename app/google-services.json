@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "15516997141",
+    "firebase_url": "https://fast-feira-b78c9.firebaseio.com",
+    "project_id": "fast-feira-b78c9",
+    "storage_bucket": "fast-feira-b78c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15516997141:android:e192bb37f407e39b7ce01c",
+        "android_client_info": {
+          "package_name": "br.com.fastfeira"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15516997141-jumqkvo0na04kc9s2udded12lsc7u13o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.fastfeira",
+            "certificate_hash": "5452166ed208d7f43d6b5d06223ff944c38d74fb"
+          }
+        },
+        {
+          "client_id": "15516997141-40i32fjp68oa6610trtvif2i5gc86or8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoYG85pwM92e8FlRJMjAMslU3yqGpx5-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15516997141-40i32fjp68oa6610trtvif2i5gc86or8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
