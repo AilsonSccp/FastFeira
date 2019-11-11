@@ -16,6 +16,8 @@ public class HomeActivity extends AppCompatActivity {
     private FirebaseAuth autenticacao;
     private Button sair;
 
+    //AilsonTeles
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
